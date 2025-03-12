@@ -23,7 +23,7 @@ def get_prediction_proba(docx):
 
 
 def main():
-    st.title("Text Emotion Detection")
+    st.title("Emotion Detection")
     st.subheader("Detect Emotions In Text")
 
     with st.form(key='my_form'):
